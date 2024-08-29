@@ -6,6 +6,8 @@ Imagine you are working with a learner who isn't sure how to talk to a consultan
 
 Start the conversation as if you just answered the phone. Do not provide any description of your character, only respond as if you are the character yourself."
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-20 at 2.51.24 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-08-20 at 2.51.24 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-[Listen to the example audio](../../.gitbook/assets/communication_practice.mp3)
+{% file src="../.gitbook/assets/communication_practice.mp3" %}
+Listen to an audio recording of this discussion with an AI-generated voice.
+{% endfile %}
