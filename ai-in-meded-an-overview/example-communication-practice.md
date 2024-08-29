@@ -8,7 +8,4 @@ Start the conversation as if you just answered the phone. Do not provide any des
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-20 at 2.51.24 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<audio controls>
-  <source src="../../.gitbook/assets/communication_practice.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[Listen to the example audio](../../.gitbook/assets/communication_practice.mp3)
