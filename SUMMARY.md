@@ -2,18 +2,28 @@
 
 * [AI Resources for Medical Education](README.md)
 
-## AI in MedEd (An Overview)
+## Start Here
 
-* [Introduction](<README (1).md>)
-* [Definitions](ai-in-meded-an-overview/definitions.md)
-* [Interacting with LLMs: The Basics](ai-in-meded-an-overview/interacting-with-llms-the-basics.md)
-* [Interacting With LLMs: How do you work with AI?](ai-in-meded-an-overview/interacting-with-llms-how-do-you-work-with-ai.md)
-* [Interacting with LLMs: Prompt Engineering](ai-in-meded-an-overview/interacting-with-llms-prompt-engineering.md)
-* [What does AI mean for medical education?](ai-in-meded-an-overview/what-does-ai-mean-for-medical-education.md)
-* [Example: Journal Club](ai-in-meded-an-overview/example-journal-club.md)
-* [Example: Communication Practice](ai-in-meded-an-overview/example-communication-practice.md)
-* [Example: Chalk Talk](ai-in-meded-an-overview/example-chalk-talk.md)
-* [Example: Teaching Materials](ai-in-meded-an-overview/example-teaching-materials.md)
-* [Example: Letters of Recommendation](ai-in-meded-an-overview/example-letters-of-recommendation.md)
-* [Ethical/Safety Considerations](ai-in-meded-an-overview/ethical-safety-considerations.md)
-* [Resources/Links/Further Reading](ai-in-meded-an-overview/resources-links-further-reading.md)
+* [Introduction](start-here/readme.md)
+* [Definitions](start-here/definitions.md)
+* [What does AI mean for medical education?](start-here/what-does-ai-mean-for-medical-education.md)
+* [Ethical/Safety Considerations](start-here/ethical-safety-considerations.md)
+
+## Interacting with LLMs
+
+* [The Basics](interacting-with-llms/interacting-with-llms-the-basics.md)
+* [How do you work with AI?](interacting-with-llms/interacting-with-llms-how-do-you-work-with-ai.md)
+* [Prompt Engineering](interacting-with-llms/interacting-with-llms-prompt-engineering.md)
+
+## Examples
+
+* [Example: Journal Club](examples/example-journal-club.md)
+* [Example: Communication Practice](examples/example-communication-practice.md)
+* [Example: Chalk Talk](examples/example-chalk-talk.md)
+* [Example: Teaching Materials](examples/example-teaching-materials.md)
+* [Example: Letters of Recommendation](examples/example-letters-of-recommendation.md)
+
+## Resources
+
+* [Resources/Links/Further Reading](resources/resources-links-further-reading.md)
+* [Suggest a Resource](resources/suggest-a-resource.md)
