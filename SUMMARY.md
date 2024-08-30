@@ -1,8 +1,10 @@
 # Table of contents
 
+* [AI Resources for Medical Education](README.md)
+
 ## AI in MedEd (An Overview)
 
-* [Introduction](README.md)
+* [Introduction](<README (1).md>)
 * [Definitions](ai-in-meded-an-overview/definitions.md)
 * [Interacting with LLMs: The Basics](ai-in-meded-an-overview/interacting-with-llms-the-basics.md)
 * [Interacting With LLMs: How do you work with AI?](ai-in-meded-an-overview/interacting-with-llms-how-do-you-work-with-ai.md)
