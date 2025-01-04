@@ -1,5 +1,5 @@
 ---
-description: Created by Carl Preiksaitis, MD, MEd
+description: Created by the SAEM Education Subcommittee
 cover: .gitbook/assets/Unknown-1.png
 coverY: 0
 ---
@@ -8,4 +8,4 @@ coverY: 0
 
 This repository is a work in progress and an attempt to share resources for medical educators interested in using AI.
 
-If you have suggestions for improvement or resources that you feel would be useful to include, please contact me [here](mailto:cmp@stanford.edu).
+If you have suggestions for improvement or resources that you feel would be useful to include, please contact Carl Preiksaitis [here](mailto:cmp@stanford.edu).
