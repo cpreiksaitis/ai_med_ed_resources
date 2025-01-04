@@ -50,26 +50,29 @@ We have been talking primarily about large language models, but understand that 
 
 ### Types of Large Language Models (LLMs)
 
-When we talk about different forms of AI, it can get quite confusing quickly to differentiate between the companies that develop models, the interfaces we use to interact with the models, and the models themselves. The following is a list of LLM providers. You will note that a given company has several models. Take OpenAI, for instance, they have 4 main text models that I have listed (GPT-4o, GPT-4o mini, GPT-4, GPT-3.5). The public interface that most people use to access these models is ChatGPT, which, as of this writing, gives you access to GPT-4o and GPT-4o mini (two different models).&#x20;
+When we talk about different forms of AI, it can get quite confusing quickly to differentiate between the companies that develop models, the interfaces we use to interact with the models, and the models themselves. The following is a list of LLM providers. You will note that a given company has several models. Take OpenAI, for instance, they have 4 main text models that I have listed (GPT-4o, GPT-4o mini, GPT-4, GPT-3.5). Additionally, they have "reasoning" models like o1 and o1-mini, which basically perform chain-of-thought prompting ( [interacting-with-llms-prompt-engineering.md](../interacting-with-llms/interacting-with-llms-prompt-engineering.md "mention")) for you. The public interface that most people use to access these models is ChatGPT, which, as of this writing, gives you access to GPT-4o and GPT-4o mini (two different models).&#x20;
 
 The version of these models that ChatGPT uses when you log on may change as new updates arrive. If you want greater control for what version of a model you are using, you can access these models through an Application Programming Interface (API). This will give you select a particular model version and gives you greater control over the model behavior. This is probably not necessary for a basic user, but should be considered if doing research using AI models.
 
 * **List of LLM Providers:**&#x20;
   * **ChatGPT** (OpenAI)
     * [https://chatgpt.com/](https://chatgpt.com/)
-    * Models: GPT-4o, GPT-4o mini, GPT-4, GPT-3.5
+    * Models: o1, o1-mini, GPT-4o, GPT-4o mini, GPT-4, GPT-3.5
   * **Claude** (Anthropic)
     * [https://claude.ai/new](https://claude.ai/new)
-    * Models: Claude 3 Opus, Claude 3 Sonnet, Claude 3 Haiku, Claude 3.5 Sonnet
+    * Models: Claude 3 Opus, Claude 3 Sonnet, Claude 3.5 Haiku, Claude 3.5 Sonnet
   * **Gemini** (Google)
     * [https://gemini.google.com/app](https://gemini.google.com/app)
-    * Models: Gemini 1.5 Flash, Gemini 1.5 Pro, Gemini 1.0 Pro, Gemini 1.0 Ultra
+    * Models: Gemini 2.0 Flash, Gemini 1.5 Flash, Gemini 1.5 Pro, Gemini 1.0 Pro, Gemini 1.0 Ultra
   * **Llama** (Meta)
     * [https://www.meta.ai/](https://www.meta.ai/)
-    * Models: Llama 3.1 (8B, 70.6B, 405B). B=billions, the number of parameters (size) of the model)
+    * Models: Llama 3 series (8B, 70.6B, 405B). B=billions, the number of parameters (size) of the model)
   * **Grok** (xAI)
     * Available on [https://x.com](https://x.com/) (no free tier available)
     * Models: Grok-1.5, Grok-2, Grok-2 mini
+  * **Deepseek**
+    * [https://www.deepseek.com](https://www.deepseek.com)
+    * Models: Deepseek-V3
 * There are 1000s of other models available that are trained for specific applications. You can view many of these models at [https://huggingface.co/](https://huggingface.co/)
 
 ### Pricing/Cost/Access
