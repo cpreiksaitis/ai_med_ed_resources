@@ -1,5 +1,5 @@
 ---
-description: Created by the SAEM Education Subcommittee
+description: Created by the SAEM Education Subcommittee on Artificial Intelligence
 cover: .gitbook/assets/Unknown-1.png
 coverY: 0
 ---
